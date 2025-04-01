@@ -1,0 +1,11 @@
+npm verb cli /usr/local/share/nvm/versions/node/v20.12.1/bin/node /usr/local/share/nvm/versions/node/v20.12.1/lib/node_modules/npm/bin/npm-cli.js
+npm info using npm@10.5.0
+npm info using node@v20.12.1
+npm verb title npm exec create-react-app frontend
+npm verb argv "exec" "--loglevel" "verbose" "--" "create-react-app" "frontend"
+npm verb logfile logs-max:10 dir:/root/.cache/npm/_logs/2025-04-01T06_03_47_826Z-
+npm verb logfile /root/.cache/npm/_logs/2025-04-01T06_03_47_826Z-debug-0.log
+npm http fetch GET 200 https://registry.npmjs.org/create-react-app 129ms (cache updated)
+Need to install the following packages:
+create-react-app@5.1.0
+Ok to proceed? (y) 
